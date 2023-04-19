@@ -1,0 +1,13 @@
+#https://trc.nist.gov/cryogenics/materials/304Stainless/304Stainless_rev.htm
+Thermal Conductivity	Specific Heat
+UNITS	W/(m-K)	J/(kg-K)
+
+a	-1.4087	22.0061
+b	1.3982	-127.5528
+c	0.2543	303.647
+d	-0.6260	-381.0098
+e	0.2334	274.0328
+f	0.4256	-112.9212
+g	-0.4658	24.7593
+h	0.1650	-2.239153
+i	-0.0199	0

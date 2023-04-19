@@ -1,0 +1,13 @@
+# https://trc.nist.gov/cryogenics/materials/Apiezon%20N/ApiezonN_rev.htm
+Specific Heat
+UNITS	J/(kg-K)
+
+a	-1.61975
+b	3.10923
+c	-0.712719
+d	4.93675
+e	-9.37993
+f	7.58304
+g	-3.11048
+h	0.628309
+i	-0.0482634

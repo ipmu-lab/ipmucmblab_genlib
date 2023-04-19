@@ -1,0 +1,16 @@
+# https://trc.nist.gov/cryogenics/materials/Silicon/Silicon.htm
+Thermal Expansion Coefficient
+
+UNITS	10-8 / K
+a	1.00500E-05
+b	-5.99688E-06
+c	1.25574E-06
+d	-1.12086E-07
+e	3.63225E-09
+f	2.67708E-02
+g   -1.22829E-04
+h   1.62544E-18
+i	4.72374E+02
+j	-3.58796E+04
+k   -1.24191E+07
+l	1.25972E+09

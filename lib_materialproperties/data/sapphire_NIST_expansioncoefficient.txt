@@ -1,0 +1,13 @@
+# https://trc.nist.gov/cryogenics/materials/Sapphire/Sapphire_rev.htm
+Expansion Coefficient
+UNITS	10-6/K
+
+a	10.97236
+b	-97.23540
+c	240.2436
+d	-294.9933
+e	195.9244
+f	-66.89247
+g	9.19921
+h	0
+i	0

@@ -1,0 +1,13 @@
+# http://cryogenics.nist.gov/MPropsMAY/G-10%20CR%20Fiberglass%20Epoxy/G10CRFiberglassEpoxy_rev.htm 	
+Thermal Conductivity     Thermal Conductivity     Specific Heat
+(Normal Direction)       (Warp Direction)
+UNITS	W/(m-K)	W/(m-K)	J/(kg•K)
+a	-4.1236	-2.64827	-2.4083
+b	13.788	8.80228	7.6006
+c	-26.068	-24.8998	-8.2982
+d	26.272	41.1625	7.3301
+e	-14.663	-39.8754	-4.2386
+f	4.4954	23.1778	1.4294
+g	-0.6905	-7.95635	-0.24396
+h	0.0397	1.48806	0.015236
+i	0	-0.11701	0

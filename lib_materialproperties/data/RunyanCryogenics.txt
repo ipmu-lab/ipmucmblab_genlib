@@ -1,0 +1,15 @@
+# https://doi.org/10.1016/j.cryogenics.2008.06.002
+# Cryogenics 48 (2008) 448–454
+# Contents lists available at ScienceDirect Cryogenics
+# journal homepage: www.elsevier.com/locate/cryogenics
+# Thermal conductivity of thermally-isolating polymeric and composite structural support materials between 0.3 and 4 K
+# M.C. Runyan a,*, W.C. Jones a,b
+# Table 2 Best fit values for the thermal conductivity of materials in the temperature range of 0.3 to 4.2 K
+#
+# Material alpha (mW/m K), beta, gamma (1/Kn), n
+# k(T) = alpha T^(beta+gamma T^n)
+# Vespel SP-1, Vespel SP-22, PEEK, PEEK CA30, PEEK GF30, Graphlite CF Rod, Avia Fiberglass Rod, Torlon 4301, G-10/FR-4, Macor, Poco Graphite AXM-5Q
+2.23	1.44	3.88	3.37	4.14	8.39	10.3	7.77	12.8	4.00	1.54
+1.92	2.11	2.41	3.20	3.07	2.12	2.28	5.46	2.41	2.55	3.36
+-0.819	-0.521	-1.43	-2.19	-1.84	-1.05	-0.585	-4.13	-0.921	-0.140	-1.83
+0.0589	-0.0163	0.0884	0.0640	0.0553	0.181	0.310	0.0682	0.222	0.809	-0.142

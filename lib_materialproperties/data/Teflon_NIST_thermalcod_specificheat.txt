@@ -1,0 +1,13 @@
+# https://trc.nist.gov/cryogenics/materials/Teflon/Teflon_rev.htm
+Thermal Conductivity	Specific Heat 
+UNITS	W/(m-K)	J/(kg-K)
+
+a	2.7380	31.88256
+b	-30.677	-166.51949
+c	89.430	352.01879
+d	-136.99	-393.44232
+e	124.69	259.98072
+f	-69.556	-104.61429
+g	23.320	24.99276
+h	-4.3135	-3.20792
+i	0.33829	0.16503

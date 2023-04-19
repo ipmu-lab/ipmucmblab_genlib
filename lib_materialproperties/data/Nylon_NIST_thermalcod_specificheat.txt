@@ -1,0 +1,13 @@
+# https://trc.nist.gov/cryogenics/materials/Polyamide%20(Nylon)/PolyamideNylon_rev.htm
+Thermal Conductivity	Specific Heat
+UNITS	W/(m-K)	J/(kg-K)
+
+a	-2.6135	-5.2929
+b	2.3239	25.301
+c	-4.7586	-54.874
+d	7.1602	71.061
+e	-4.9155	-52.236
+f	1.6324	21.648
+g	-0.2507	-4.7317
+h	0.0131	0.42518
+i	0	0

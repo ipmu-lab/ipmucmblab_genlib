@@ -1,0 +1,13 @@
+# http://cryogenics.nist.gov/MPropsMAY/6061%20Aluminum/6061_T6Aluminum_rev.htm
+Thermal Conductivity Specific Heat
+UNITS	W/(m-K)	J/(kg-K)
+
+a	0.07918	46.6467
+b	1.0957	-314.292
+c	-0.07277	866.662
+d	0.08084	-1298.3
+e	0.02803	1162.27
+f	-0.09464	-637.795
+g	0.04179	210.351
+h	-0.00571	-38.3094
+i	0	2.96344

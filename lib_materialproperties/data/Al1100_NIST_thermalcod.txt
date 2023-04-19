@@ -1,0 +1,13 @@
+# https://trc.nist.gov/cryogenics/materials/1100%20Aluminum/1100%20Aluminum_rev.htm
+Thermal Conductivity
+UNITS	W/(m-K)
+
+a	23.39172
+b	-148.5733
+c	422.1917
+d	-653.6664
+e	607.0402
+f	-346.152
+g	118.4276
+h	-22.2781
+i	1.770187
