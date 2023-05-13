@@ -10,7 +10,7 @@ in lib_optics
 	incpol: 1 or -1 
     	1 for s-state, E field perpendicular to the plane of incidnet, -1 for P-state, E in the plane of incident
 
-2023-5-11 @ IPMU
+2023-5-11 @ IPMU, by T. Matsumura
 
 '''
 
